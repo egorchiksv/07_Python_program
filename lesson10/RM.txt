@@ -1,0 +1,3 @@
+https://mipt-stats.gitlab.io/courses/python/09_seaborn.html
+https://seaborn.pydata.org/generated/seaborn.set_theme.html#seaborn.set_theme
+https://www.geeksforgeeks.org/seaborn-style-and-color/?ref=lbp
